@@ -1,0 +1,12 @@
+This is a collection of various PHP experiments.
+
+    * DBQuery- "Interesting" database interfacing. For more information
+      visit http://zaemis.blogspot.com/2009/01/database-access.html
+
+    * Fibonacci- A lazily-iterable list of Fibonacci numbers which also
+      supports random array access. For more information visit
+      http://zaemis.tumblr.com/post/6179755099/lazy-fibonacci-array
+
+    * Random String- An intentionally over-engineered random string generator.
+      For more information see http://zaemis.blogspot.com/2009/10/pop-quiz.html
+

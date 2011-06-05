@@ -1,0 +1,4 @@
+The Fibonacci class is a lazily-iterable list of Fibonacci numbers which
+also supports random array access. For more information visit
+http://zaemis.tumblr.com/post/6179755099/lazy-fibonacci-array
+

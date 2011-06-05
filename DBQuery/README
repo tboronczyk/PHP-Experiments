@@ -1,0 +1,3 @@
+The DBQuery class presents an "interesting" approach to interfacing with a
+database. See http://zaemis.blogspot.com/2009/01/database-access.html for
+more information.
