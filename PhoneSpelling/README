@@ -1,0 +1,5 @@
+This script outputs all of the possible letter combinations that a given phone
+number could represent. Mapping is done via SQL rather than traditional 
+recursion.
+
+Run as: php spell.php 12345

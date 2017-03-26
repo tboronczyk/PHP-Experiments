@@ -7,6 +7,10 @@ This is a collection of various PHP experiments.
       supports random array access. For more information visit
       http://zaemis.tumblr.com/post/6179755099/lazy-fibonacci-array
 
+    * PhoneSpelling- A script that outputs all of the possible letter
+      combinations that a given phone number could represent. Mapping is
+      done via SQL rather than traditional recursion.
+
     * Random String- An intentionally over-engineered random string generator.
       For more information see http://zaemis.blogspot.com/2009/10/pop-quiz.html
 
